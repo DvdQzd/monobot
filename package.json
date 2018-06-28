@@ -1,0 +1,14 @@
+{
+  "name": "monobot",
+  "version": "1.0.0",
+  "description": "bot para slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BloodyLink",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
