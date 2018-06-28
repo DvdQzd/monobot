@@ -9,6 +9,7 @@
   "author": "BloodyLink",
   "license": "ISC",
   "dependencies": {
+    "natural": "^0.6.1",
     "request": "^2.87.0",
     "slackbots": "^1.1.0"
   },
