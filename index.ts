@@ -56,13 +56,7 @@ bot.on('start', function(): void {
                 { as_user: true }
               );
               break;
-            /**
-             * TODO: Vamos a agregarle una api con los feriados para calcular el ultmo dia habil del mes.
-             *
-             * Que mas le podemos incluir?
-             *
-             * Copiamos a coipo??
-             */
+
           }
         }
         break;
